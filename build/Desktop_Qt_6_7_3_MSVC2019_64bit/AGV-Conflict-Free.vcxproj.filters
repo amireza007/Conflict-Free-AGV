@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\CMakeFiles\dc67de9bb32616f67a7770662f2f1e0e\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\mainwindow.ui" />
+    <None Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\Asus\Projects\Frequently Used Repos\AGV-Conflict-Free\build\Desktop_Qt_6_7_3_MSVC2019_64bit\AGV-Conflict-Free_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{785E1343-3C30-328C-8781-CF2B01A50277}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{10751B4C-BDD7-36CA-AC42-A0DB310F60A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{630392A8-3ADB-3E6C-9F22-3C646F0B2D86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
